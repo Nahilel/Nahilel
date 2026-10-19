@@ -44,12 +44,12 @@ hobbies: ["Deep Learning Research", "Gaming", "Cinema", "Football", "History"]
 
 ### 🔬 Featured Research & Flagship Projects
 
-| Project | Focus Areas | Key Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| **[DiffSepsis](https://github.com/Nahilel/DiffSepsis)** | Time-Series Diffusion • Bayesian Deep Learning • Clinical AI | Semi-supervised ICU sepsis early warning under extreme label scarcity ($\le 10\%$) on 40,336 PhysioNet patients. **Diffusion-TS (ICLR 2024)** with Classifier-Free Guidance (CFG) for 24h trajectory synthesis, alongside a Cost-Sensitive Temporal Transformer with **Monte Carlo Dropout** ($N = 50$) for calibrated epistemic abstention. | [Repository](https://github.com/Nahilel/DiffSepsis) • [Paper (PDF)](https://github.com/Nahilel/DiffSepsis/blob/master/rapport.pdf) |
-| **[Retinal Image Segmentation](https://github.com/Nahilel/Retinal_Image_Segmentation)** | Computer Vision • Medical Imaging • Deep Learning | Implementation of the **Structure-Texture Demixing Network (STD-Net)** for high-precision retinal vessel segmentation and ocular pathology diagnosis on the DRIVE benchmark using PyTorch and OpenCV. | [Repository](https://github.com/Nahilel/Retinal_Image_Segmentation) • [Live Interactive Demo](https://nahilel.github.io#projects) |
-| **[Extreme Text Summarization](https://github.com/Nahil-ElBezzari/Extreme_Text_Summarization)** | NLP • Transformers • Fast Inference | Lightweight abstractive one-line headline summarization using Transformer architectures (BERT/BART), featuring an interactive Gradio interface and CLI support. | [Repository](https://github.com/Nahil-ElBezzari/Extreme_Text_Summarization) |
-| **[Farming Video Recommendation](https://github.com/Nahil-ElBezzari/Farming_Video_Recommendation_Using_Voice_Recognition)** | Speech Recognition • Machine Learning • Audio ML | Voice-driven recommendation and semantic retrieval pipeline suggesting agricultural media from speech input. | [Repository](https://github.com/Nahil-ElBezzari/Farming_Video_Recommendation_Using_Voice_Recognition) |
+| Project | Focus Areas | Key Highlights |
+| :--- | :--- | :--- |
+| **[DiffSepsis](https://github.com/Nahilel/DiffSepsis)** | Time-Series Diffusion • Bayesian Deep Learning • Clinical AI | Semi-supervised ICU sepsis early warning under extreme label scarcity ($\le 10\%$) on 40,336 PhysioNet patients. **Diffusion-TS (ICLR 2024)** with Classifier-Free Guidance (CFG) for 24h trajectory synthesis, alongside a Cost-Sensitive Temporal Transformer with **Monte Carlo Dropout** ($N = 50$) for calibrated epistemic abstention ([Paper PDF](https://github.com/Nahilel/DiffSepsis/blob/master/rapport.pdf)). |
+| **[Retinal Image Segmentation](https://github.com/Nahilel/Retinal_Image_Segmentation)** | Computer Vision • Medical Imaging • Deep Learning | Implementation of the **Structure-Texture Demixing Network (STD-Net)** for high-precision retinal vessel segmentation and ocular pathology diagnosis on the DRIVE benchmark using PyTorch and OpenCV. |
+| **[Extreme Text Summarization](https://github.com/Nahil-ElBezzari/Extreme_Text_Summarization)** | NLP • Transformers • Fast Inference | Lightweight abstractive one-line headline summarization using Transformer architectures (BERT/BART), featuring an interactive Gradio interface and CLI support. |
+| **[Farming Video Recommendation](https://github.com/Nahil-ElBezzari/Farming_Video_Recommendation_Using_Voice_Recognition)** | Speech Recognition • Machine Learning • Audio ML | Voice-driven recommendation and semantic retrieval pipeline suggesting agricultural media from speech input. |
 
 ---
 
@@ -83,16 +83,6 @@ hobbies: ["Deep Learning Research", "Gaming", "Cinema", "Football", "History"]
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nahilel&show_icons=true&title_color=4ecdc4&text_color=ffffff&icon_color=4ecdc4&bg_color=1a1a2e&border_color=4ecdc4" alt="Nahil's GitHub stats" height="175"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahilel&layout=compact&title_color=4ecdc4&text_color=ffffff&bg_color=1a1a2e&border_color=4ecdc4" alt="Top Languages" height="175"/>
 </p>
 
 <p align="center">
